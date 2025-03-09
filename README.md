@@ -1,3 +1,5 @@
+![Uploading Screenshot (13).png…]()
+
 # 🌍 GlobalNews Live
 
 **GlobalNews Live** is a responsive **news application** that fetches real-time news updates from the **NewsAPI**. Users can browse trending news, search for specific topics, and filter by categories like **IPL, Finance, and Politics**.
@@ -14,6 +16,6 @@
 
 ---
 
-## 📂 Project Structure
 
-![Uploading Screenshot (13).png…]()
+
+
