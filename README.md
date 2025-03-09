@@ -1,4 +1,4 @@
-![Uploading Screenshot (13).png…]()
+https://github.com/nitin-malik380/Global-News-Live/blob/8770ba3d037842d9966b4726352a535308277a09/svtbwiae.png
 
 # 🌍 GlobalNews Live
 
